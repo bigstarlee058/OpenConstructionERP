@@ -401,3 +401,6 @@ frontend/scripts/_workflow-walk.mjs
 frontend/scripts/_shot-*.mjs
 frontend/scripts/_import-map-*.mjs
 frontend/scripts/_i18n_*.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
