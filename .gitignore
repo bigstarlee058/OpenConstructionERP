@@ -14,7 +14,6 @@ node_modules/
 frontend/dist/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -24,9 +23,6 @@ frontend/dist/
 Thumbs.db
 
 # Environment
-.env
-.env.local
-.env.production
 
 # Database
 *.db
@@ -404,3 +400,4 @@ frontend/scripts/_i18n_*.py
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
+config.bat
